@@ -1,0 +1,12 @@
+de\finreach\business\util\helper\RomanToDecimalConverter.class
+de\finreach\business\util\QuestionParser.class
+de\finreach\FinreachTestApplication.class
+de\finreach\business\util\helper\OutputGenerator.class
+de\finreach\business\util\InputParser.class
+de\finreach\business\model\InputDTO.class
+de\finreach\business\util\helper\Constants.class
+de\finreach\business\model\QuestionSentence.class
+de\finreach\business\util\helper\ExpressionParserHelper.class
+de\finreach\business\model\GoodsExpressionSentence.class
+de\finreach\business\util\InputFileReader.class
+de\finreach\business\util\GoodsExpressionParser.class
